@@ -2,7 +2,7 @@
 
 int main(void){
     
-    printf("인공지능융합전공\n2018314374\n고귀환");
+    printf("안녕하세요\n제 이름은 \n고귀환");
 
     return 0;
     
